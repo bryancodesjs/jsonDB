@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "name": "artoria" },
+    { "id": 2, "title": "chunli" },
+    { "id": 3, "title": "morrigan" },
+    { "id": 3, "title": "saryn" }
+  ]
+}
